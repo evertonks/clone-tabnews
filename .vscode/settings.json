@@ -1,3 +1,6 @@
 {
-    "workbench.colorTheme": "Dracula Theme"
+  "workbench.colorTheme": "Dracula Theme",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "files.autoSave": "off"
 }
