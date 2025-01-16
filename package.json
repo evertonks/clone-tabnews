@@ -25,7 +25,7 @@
     "dev": "next dev",
     "lint:check": "prettier --check .",
     "lint:fix": "prettier --write .",
-    "jest": "jest",
+    "test": "jest",
     "test:watch": "jest --watch"
   },
   "author": "MIT",
